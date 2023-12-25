@@ -7,8 +7,8 @@ This project aims to predict if the email is spam/ham by using two different wor
 The project is organized as follows:
 
 - `requirments.txt`: This file lists all the Python libraries and dependencies required to run the project.
-- 'dataset folder': Contains the dataset used for this project
-- 'main.py': The python file where the entire implementation is performed
+- `dataset folder`: Contains the dataset used for this project
+- `main.py`: The python file where the entire implementation is performed
 
 
 ## Getting Started
